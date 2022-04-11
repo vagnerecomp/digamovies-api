@@ -9,4 +9,4 @@
 
 ## Digamovies API
 
-This project will be the server-side of an aplication of movies library. If you want run, clone the repository and install the laravel dependences through of composer CLI.
+This project will be the server-side of an aplication of movies library. If you want run it, clone the repository and install the laravel dependences through of composer CLI.
